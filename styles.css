@@ -92,14 +92,14 @@ body {
     background-size: cover;
     background-size: cover;
     display: flex;
-    align-items: 0px; /* Center vertically */
-    min-height: 80vh; /* Adjust the value as needed */
+    align-items: 0px;
+    min-height: 80vh;
   }
   
   .main article {
-    max-width: 600px; /* Adjust as needed */
+    max-width: 600px;
     margin: 0 auto;
-    padding-top: 20vh; /* Adjust the value as needed */
+    padding-top: 20vh;
   }
   
   .italic {
@@ -127,7 +127,7 @@ body {
     color: #f2f2f2;
     text-align: center;
     border-top: 10px solid #d98555;
-    padding: 25px 20px; /* Adjust the padding as needed */
+    padding: 25px 20px;
   }
   
   .small-text {
