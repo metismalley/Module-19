@@ -148,15 +148,13 @@ footer a {
   margin: 0 1rem 3rem 1rem;
 }
 
-/* Add a media query for desktop view */
 @media (min-width: 940px) {
   figure {
-    margin-top: -170px; /* Align with the "Contact Us" text */
+    margin-top: -170px;
 
   }
 }
 
-/* Add a media query for tablet view */
 @media (max-width: 940px) {
   figure {
     margin-top: 0;
@@ -164,7 +162,7 @@ footer a {
 
   article,
   figure {
-    flex-basis: 100%; /* Make both full width on tablet view */
+    flex-basis: 100%;
     align-self: flex-start;
   }
 }
